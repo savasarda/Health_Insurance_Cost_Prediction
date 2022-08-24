@@ -3,3 +3,5 @@
 
 The aim of the project is the health of a person according to the given variables.
 Estimating how much the insurance will cost.
+
+Data : https://www.kaggle.com/datasets/mirichoi0218/insurance
